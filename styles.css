@@ -41,4 +41,9 @@ form ul .obser{
 }
 form ul li input{
     font-family: 'Montserrat';
+    color: #fff;
+}
+.fa-paper-plane{
+    color: blue;
+    font-size: 20px;
 }
