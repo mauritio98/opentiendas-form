@@ -28,8 +28,8 @@ form ul li .btn{
     width: 100%;
     background-color:#f65050;
 }
-/* form ul .obs{
+form ul .obser{
     float:right;
     position: relative;
-    bottom: 200px;
-} */
+    bottom: 65px;
+}
