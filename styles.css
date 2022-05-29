@@ -7,7 +7,7 @@ h2{
 form{
     margin: 0 auto;
     width: 400px;
-    height: 300px;
+    height: 310px;
     border: 2px solid red;
     background-color: #fff;
 }
@@ -27,6 +27,8 @@ form li{
 form ul li .btn{
     width: 100%;
     background-color:#f65050;
+    position: relative;
+    bottom: 45px;
 }
 form ul .obser{
     float:right;
