@@ -10,7 +10,7 @@ h2{
 form{
     margin: 0 auto;
     width: 400px;
-    height: 310px;
+    height: 315px;
     border: 2px solid red;
     background-color: #fff;
 }
@@ -29,8 +29,9 @@ form li{
     margin-top: 16px;
 }
 form ul li .btn{
+    background-color: #f65050;
     width: 100%;
-    background-color:#f65050;
+    height: 30px;
     position: relative;
     bottom: 45px;
 }
@@ -44,6 +45,6 @@ form ul li input{
     color: #fff;
 }
 .fa-paper-plane{
-    color: blue;
+    color: #fff;
     font-size: 20px;
 }
