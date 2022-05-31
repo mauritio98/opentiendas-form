@@ -11,7 +11,7 @@ form{
     margin: 0 auto;
     width: 400px;
     height: 360px;
-    border: 2px solid red;
+    /*border: 2px solid red;*/
     background-color: #fff;
 }
 form ul{
@@ -36,6 +36,7 @@ form ul li .btn{
     height: 40px;
     position: relative;
     bottom: 55px;
+    border-radius: 5px;
 }
 form ul .obser{
     float:right;
