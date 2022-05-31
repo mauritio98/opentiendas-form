@@ -10,7 +10,7 @@ h2{
 form{
     margin: 0 auto;
     width: 400px;
-    height: 330px;
+    height: 355px;
     border: 2px solid red;
     background-color: #fff;
 }
@@ -36,6 +36,7 @@ form ul li .btn{
     height: 40px;
     position: relative;
     bottom: 45px;
+    margin-top: 15px;
 }
 form ul .obser{
     float:right;
@@ -45,7 +46,7 @@ form ul .obser{
 form ul li input{
     font-family: 'Montserrat';
     color: #fff;
-    height: 20px;
+    height: 27px;
 }
 .fa-paper-plane{
     color: #fff;
