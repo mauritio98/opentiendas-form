@@ -10,7 +10,7 @@ h2{
 form{
     margin: 0 auto;
     width: 400px;
-    height: 320px;
+    height: 310px;
     border: 2px solid red;
     background-color: #fff;
 }
@@ -31,7 +31,7 @@ form li{
 form ul li .btn{
     background-color: #f65050;
     width: 100%;
-    height: 35px;
+    height: 40px;
     position: relative;
     bottom: 45px;
 }
