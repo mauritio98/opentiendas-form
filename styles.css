@@ -9,11 +9,10 @@ div.logo{
     background-color: #fff;
 }
 div.debajo{
-    height: 130px;
-    border: 1px solid blue;
-    background-color: gray;
+    height: 250px;
+    background-color: #acacac;
     position: relative;
-    top: 250px;
+    top: 150px;
     z-index: -1;
 }
 div.logo img{
@@ -29,8 +28,11 @@ form{
     margin: 0 auto;
     width: 400px;
     height: 360px;
-    border: 2px solid red;
+    padding: 10px;
     background-color: #fff;
+    border-radius: 2px;
+    position: relative;
+    bottom: 175px;
 }
 form ul{
     list-style: none;
