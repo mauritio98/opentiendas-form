@@ -47,3 +47,6 @@ form ul li input{
 .fa-paper-plane{
     color: #fff;
 }
+.fa-paper-plane::before {
+	margin-right: 10px;
+}
