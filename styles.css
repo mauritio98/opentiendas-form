@@ -29,7 +29,9 @@ form li{
     margin-top: 16px;
 }
 form ul li .btn{
+    color: #fff;
     background-color: #f65050;
+    font-size: larger;
     width: 100%;
     height: 40px;
     position: relative;
@@ -43,10 +45,12 @@ form ul .obser{
 form ul li input{
     font-family: 'Montserrat';
     color: #fff;
+    height: 20px;
 }
 .fa-paper-plane{
     color: #fff;
+    font-size: large;
 }
 .fa-paper-plane::before {
-	margin-right: 10px;
+	margin-right: 12px;
 }
