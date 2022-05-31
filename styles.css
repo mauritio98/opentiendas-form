@@ -8,6 +8,14 @@ div.logo{
     height: 50px;
     background-color: #fff;
 }
+div.debajo{
+    height: 130px;
+    border: 1px solid blue;
+    background-color: gray;
+    position: relative;
+    top: 250px;
+    z-index: -1;
+}
 div.logo img{
     height: 40px;
     display: block;
@@ -19,7 +27,6 @@ h2{
 }
 form{
     margin: 0 auto;
-    margin-top: 70px;
     width: 400px;
     height: 360px;
     border: 2px solid red;
