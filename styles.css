@@ -94,7 +94,7 @@ form ul li input {
 
 @media (max-width: 600px){
     form{
-        height: 430px;
+        height: 450px;
     }
     form ul .obser {
         float: left;
