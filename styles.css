@@ -102,7 +102,8 @@ form ul li input {
         top: -8px;
     }
     textarea#obs{
-        height: 27px;
+        height: 50px;
+        width: 392px;
     }
     form ul li .btn {
         position: relative;
