@@ -93,6 +93,9 @@ form ul li input {
 }
 
 @media (max-width: 600px){
+    form{
+        height: 430px;
+    }
     form ul .obser {
         float: left;
         position: relative;
@@ -101,7 +104,11 @@ form ul li input {
     textarea#obs{
         height: 27px;
     }
-    /* form ul li .btn {
-        
-    } */
+    form ul li .btn {
+        position: relative;
+        top: -3px;
+    }
+    form ul li input {
+        width: 98%;
+    } 
 }
