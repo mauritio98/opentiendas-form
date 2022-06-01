@@ -67,7 +67,8 @@ form ul li .btn {
     height: 40px;
     position: relative;
     bottom: 55px;
-    border-radius: 5px;
+    border-radius: 3px;
+    border: 0;
 }
 
 form ul .obser {
@@ -94,8 +95,13 @@ form ul li input {
 @media (max-width: 600px){
     form ul .obser {
         float: left;
+        position: relative;
+        top: -8px;
     }
     textarea#obs{
         height: 27px;
     }
+    /* form ul li .btn {
+        
+    } */
 }
